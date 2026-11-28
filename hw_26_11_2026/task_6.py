@@ -102,9 +102,9 @@ product2 = Product(
     "Keyboard",
     1500,
     5,
-    "Electronics")  # Порівняння
-print(product1 == product2)  # Порівняння за ціною
-print(product1 < product2)  # Об'єднання кількості
-result = product1 + product2  # Множення кількості
+    "Electronics")
+print(product1 == product2)
+print(product1 < product2)
+result = product1 + product2
 result = product1 * 3
 
